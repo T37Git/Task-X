@@ -11,7 +11,7 @@
   <h3 align="center">Task-X: iTi Git-BC Practice Repo</h3>
 
   <p align="center">
-    By Abdullah Beshary & Abdulrahman Ghubish
+    By Abdullah Beshary & Abdulrahman Ghubish (T37Git)
     <br/>
     <a href="">Explore the docs »</a>
   </p>
