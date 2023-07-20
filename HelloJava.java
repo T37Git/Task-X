@@ -1,10 +1,10 @@
-public class HelloWorld{
-    public void printHelloWorld() {
+public class HelloJava{
+    public void printHelloJava() {
         System.out.println("Hello World");
     }
 
     public static void main(String[] args) {
-        HelloWorld hello = new HelloWorld();
-        hello.printHelloWorld();
+        HelloJava hello = new HelloJava();
+        hello.printHelloJava();
     }
 }
