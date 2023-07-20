@@ -7,9 +7,7 @@ public class Bosha{
 		System.out.println("HelloITI");
 	}
 	public static void main(String[] args){
-		Bosha hi =new Bosha();
 		HelloWorld();
-		Bosha hi2 =new Bosha();
 		HelloITI();
 	}
 
